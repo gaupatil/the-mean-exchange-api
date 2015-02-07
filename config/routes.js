@@ -37,11 +37,11 @@ module.exports.routes = {
   },
  
   '/login': {
-    controller: 'AuthController',
+    controller: 'UserController',
     action: 'login'
   },
   '/logout': {
-    controller: 'AuthController',
+    controller: 'UserController',
     action: 'logout'
   }
   
