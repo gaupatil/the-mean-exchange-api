@@ -4,6 +4,9 @@
 
 https://www.lucidchart.com/invitations/accept/feff2c96-e829-433e-b95f-b9d512e120d1
 
+###Mean Exchange Fields List
+https://docs.google.com/spreadsheets/d/1CEkSGjbAnoBsnaV2fHQr37qkRO2aDwU7V8SIrL-Ejyc/edit#gid=1174946202
+
 A bootstrap that will help you start off your backend on a path for success.  It is setup to have API Documentation, Tests, and a very friendly MVC framework.  These are listed below for documentation reference.
 
 MVC:      [Sails.JS](http://sailsjs.org/) - [Documentation](http://sailsjs.org/#/documentation)
